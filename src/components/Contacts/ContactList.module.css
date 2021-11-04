@@ -1,0 +1,21 @@
+.ContactList {
+  display: block;
+  align-items: center;
+}
+
+.ContactListBtn {
+  margin: 6px;
+  margin-left: 15px;
+
+  appearance: none;
+  border: 0;
+  border-radius: 5px;
+  background: #4676d7;
+  color: #fff;
+  padding: 6px 14px;
+  font-size: 16px;
+}
+
+.ContactListBtn:hover {
+  background: #1253d4;
+}
